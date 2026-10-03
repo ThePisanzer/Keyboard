@@ -6,7 +6,7 @@ Click the keys, and they type into whatever window is focused — no driver, no 
 
 > Part of the **Elemental Series** — small, keyboard-driven, dark-themed desktop tools.
 
-![Keyboard screenshot](assets/screenshot.png)
+![Keyboard screenshot](screenshot.png)
 
 ## Features
 
